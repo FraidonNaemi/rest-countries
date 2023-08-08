@@ -18,3 +18,10 @@ REST Countries is a web application that allows users to explore detailed inform
 ### Prerequisites
 - Node.js (v14 or higher)
 - npm (v6 or higher)
+
+### Commands to run the application
+$ git clone <app-url><br>
+$ cd <app><br>
+$ npm i<br>
+$ nodemon index.js<br>
+$ GET request: http://localhost:3000/country/<country-name>
